@@ -17,3 +17,7 @@ try {
 var text = "I like an apple...";
 pat = /apple/;
 document.write(text.replace(pat,"pie"));
+
+x = 10;
+document.write(x);
+var x;
