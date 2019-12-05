@@ -20,4 +20,4 @@ document.write(text.replace(pat,"pie"));
 
 x = 10;
 document.write(x);
-var x;
+var x;  //hoisting, bad practice
